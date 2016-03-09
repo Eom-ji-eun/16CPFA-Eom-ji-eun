@@ -1,10 +1,10 @@
 print "Hello world"
-print "Hello again"
-print "I like typing this"
-print "This is fun"
-print 'Yay! Printing.'
-print "I'd much rather you 'not'."
-print 'I "said" do not touch this.'
+# print "Hello again"
+# print "I like typing this"
+# print "This is fun"
+# print 'Yay! Printing.'
+# print "I'd much rather you 'not'."
+# print 'I "said" do not touch this.'
 
-print "jieun Eom"
-print "2015112022"
+# print "jieun Eom"
+# print "2015112022"
