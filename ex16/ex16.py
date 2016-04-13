@@ -1,3 +1,4 @@
+#http://learnpythonthehardway.org/book/ex16.html
 from sys import argv
 
 script, filename = argv
