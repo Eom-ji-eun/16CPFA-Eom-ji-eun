@@ -4,6 +4,8 @@ def add(a, b):
     print "ADDING %d + %d" % (a, b)
     return a + b
 
+# return은 다른 함수를 받아주는 역할을 한다.
+
 def subtract(a, b):
     print "SUBTRACTING %d - %d" % (a, b)
     return a - b
